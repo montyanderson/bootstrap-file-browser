@@ -11,10 +11,8 @@ to the file containing the files you would like to be browsable.
 
 For apache:
 
-```DirectoryIndex  index.html  index.php  /bootstrap-file-browser/index.php
-```
+> DirectoryIndex  index.html  index.php  /bootstrap-file-browser/index.php
    
 For nginx:
 
-```index  index.html  index.php  /bootstrap-file-browser/index.php
-```
+> index  index.html  index.php  /bootstrap-file-browser/index.php
