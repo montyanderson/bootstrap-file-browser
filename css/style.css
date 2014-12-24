@@ -1,0 +1,20 @@
+* {
+	font-family: "Ubuntu" !important;
+}
+
+#files {
+	margin-top: 10%;
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+
+	padding-top: 1%;
+	padding-bottom: 1%;
+
+	text-align: center;
+	background: white;
+	box-shadow: inset 2px 2px 2px #ccc;
+}
