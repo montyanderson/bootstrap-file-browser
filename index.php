@@ -1,6 +1,6 @@
 <?php
 
-$path = $_SERVER["CONTEXT_DOCUMENT_ROOT"].$_SERVER["REQUEST_URI"];
+$path = $_SERVER["DOCUMENT_ROOT"].$_SERVER["REQUEST_URI"];
 
 ?><!DOCTYPE html>
 <html>
